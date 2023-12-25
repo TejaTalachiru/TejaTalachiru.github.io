@@ -29,7 +29,7 @@ export function HttpLoaderFactory(http: HttpClient){
     HomeModule,
     GeneralModule,
 
-    AnimateOnScrollModule.forRoot(),
+    //AnimateOnScrollModule.forRoot(),
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
