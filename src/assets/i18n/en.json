@@ -1,0 +1,171 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "BST_CV.pdf",
+    "Banner.Pretitle": "Hello World! My name is",
+    "Banner.Description": "I my <span class='underline'>2 years of experience</span> , I made significant strides as a Software Developer at <span class='underline'>Turito Inc,</span> Hyderabad, where I honed the skills in front-end development using <span class='underline'> Angular 8, React,</span><span class='underline'> TypeScript, HTML, and CSS,</span> and engaged in complex projects involving<span class='underline'> SQL, MongoDB, and Scala</span>. My role involved not just coding, but also contributing to code reviews, project architecture discussions, and employing tools like<span class='underline> Jira and Jenkins</span> for efficient project management.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": ["I am an aspiring software developer, currently advancing my skills in Information Technology Project Management with a Masters at Arizona State University,",
+     "set to graduate in May 2025. With a strong foundation in Computer Science from IIIT Rajiv Gandhi University, I had excelled academically,",
+      "delving into diverse areas such as Advanced Database Management, Big Data, and Cloud Computing. My technical prowess extends across a spectrum of languages and tools,",
+      "including Scala, Python, Java, Angular, React, and NodeJS, complemented by my experience with databases and cloud platforms like MySQL, MongoDB, PostgreSQL, and Azure.",
+    "Professionally,In my 2 years of experience I made significant strides as a Software Developer at Turito Inc, Hyderabad, where I honed the skills in front-end development using ",
+    "Angular 8, TypeScript, and CSS, and engaged in complex projects involving SQL, MongoDB, and Scala. My role involved not just coding, ",
+    "but also contributing to code reviews, project architecture discussions, and employing tools like Jira and Jenkins for efficient project management.",
+    " In academia, My projects, such as the Mood-Based Music Player with Facial Recognition and Leaves Management System for University Students,",
+    " demonstrate my ability to integrate machine learning, data management, and user-friendly design into functional applications.",
+    " I am with a blend of academic knowledge and practical experience, through which I am poised to make a significant impact in the field of software development."
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Turito.Inc",
+            "Title": "Software developer",
+            "Date": "September 2021 - September 2023",
+            "Description": [
+                "Expertly developed and implemented responsive front-end solutions utilizing Angular 8,TypeScript, and CSS, enhancing user interface and experience.",
+                "Actively collaborated on complex projectsinvolving SQL, MongoDB, and Scala, working closely with senior developers.",
+                "Played a key role in debugging and quality testing; optimized code forsuperior application performance.",
+                "Contributed to code reviews and engaged in team discussions on project architecture and design, ensuring best practices.",
+                "Authored new code modules from scratch for company websites, integrating innovative features and functionalities using Angular and Scala.",
+                "Effectively utilized Jira and Jenkins for project management and continuous integration,streamlining development processes and improving efficiency"
+            ]
+        },
+        
+        {
+            "Tab": "Freelancer",
+            "Title": "Independent",
+            "Date": "March 2021 - Present",
+            "Description": [
+                "Performing the ",
+                "Implementing continuous improvements, working on frontend and backend.",
+                "Creating platforms with Angular, Nodejs, ExpressJS, React, reactive, and object-oriented programming paradigms.",
+                "Automation of processes with data structures.",
+                "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "2x School",
+            "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "imgs": [
+                "assets/images/school/image1.png",
+                "assets/images/school/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "Best Buy Mall",
+            "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
+            "imgs": [
+                "assets/images/bbm/image1.png",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Material",
+                "RxJS",
+                "ExpressJS"
+            ]
+        },
+        {
+            "Title": " Mazhr",
+            "Description": " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "imgs": [
+                "assets/images/mazhr/image1.png"
+            ],
+            "Technologies": [
+                "React",
+                "SASS",
+                "Material",
+                "Babel",
+                "NodeJS"
+            ]
+        },
+        {
+            "Title": "Needle",
+            "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
+            "imgs": [
+                "assets/images/mazhr/needle.png"
+            ],
+            "demoLink": "https://profile.needlemusic.co/bub",
+            "Technologies": [
+                "React",
+                "ChartJS",
+                "SASS",
+                "NodeJS",
+                "Python"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Covid Tracker",
+            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
+            "ghLink": "https://github.com/mufeez1/carona19-tracker",
+            "demoLink": "http://carona19-by-bst.surge.sh/",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Lets Chat",
+            "Description": "A real-time chat application. Another fun side project :)",
+            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Technologies": [
+                "React",
+                "SASS",
+                "Socket.io",
+                "NodeJS",
+                "ExpressJS",
+                "Firebase"
+            ]
+        },
+        {
+            "Title": "Quiz App",
+            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+            "ghLink": "https://github.com/mufeez1/quizapp",
+            "demoLink": "https://github.com/mufeez1/quizapp",
+            "Technologies": [
+                "React",
+                "SASS",
+                "TypeScript",
+                "API",
+                "3rd Party Library"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "https://github.com/mufeez1/node-jwt",
+            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
